@@ -4,8 +4,7 @@
 这是一个专为美国 Mount Prospect 门店设计的“实体扭蛋互动 + 线上邮箱收集”的营销系统。结合了门店自助餐（All-You-Can-Eat）的商业模式，旨在通过极低的维护成本和最低的顾客操作门槛，为门店无感积累本地食客的有效电子邮箱（Email List）。
 
 ## 🌐 线上活动网址
-* **活动访问链接：** [www.e-sushimountprospect.com/lucky]([http://www.e-sushimountprospect.com/lucky](暂时是https://professormin.github.io/sushi-lucky/lucky/))
-
+* **活动访问链接：** [www.e-sushimountprospect.com/lucky]暂时是https://professormin.github.io/sushi-lucky/lucky
 ---
 
 ## 🛠️ 店内运营闭环动线 (The 4-Step Customer Journey)
